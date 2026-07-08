@@ -121,8 +121,7 @@ https://codealpha-nexuslang.onrender.com/
 
 
 ** AUTHOR**
-SHIVAM KUMAR RAY
-www.linkedin.com/in/shivam-kumar-ray-ba45b0204
+NEERAJ KUMAR
 
 ## 📝 Notes
 
