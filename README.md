@@ -110,7 +110,7 @@ translator/
 
 ---
 **LIVE DEMO **
-https://codealpha-nexuslang.onrender.com/
+https://codealpha-nexuslang-ues3.onrender.com
 
 
 ** SCREENSHOT**
@@ -122,6 +122,7 @@ https://codealpha-nexuslang.onrender.com/
 
 ** AUTHOR**
 NEERAJ KUMAR
+www.linkedin.com/in/neeraj-kumar-401252358
 
 ## 📝 Notes
 
